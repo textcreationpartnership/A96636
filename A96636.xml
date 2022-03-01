@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble remonstrance of Sr. Francis VVilloughby knight therein setting forth his faithfull services, his many sufferings, and his earnest desires to spend the rest of his dayes in the service of the Parliament, against the rebels of Ireland.</title>
+            <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96636</idno>
+            <idno type="STC">Wing W2858A</idno>
+            <idno type="STC">ESTC R230908</idno>
+            <idno type="EEBO-CITATION">99896071</idno>
+            <idno type="PROQUEST">99896071</idno>
+            <idno type="VID">153766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153766)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble remonstrance of Sr. Francis VVilloughby knight therein setting forth his faithfull services, his many sufferings, and his earnest desires to spend the rest of his dayes in the service of the Parliament, against the rebels of Ireland.</title>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:153766:1"/>
+            <!-- PDF PAGE 79 -->
+            <p>
+               <figure>
+                  <figDesc>bookplate</figDesc>
+                  <head>J.G. Hodgson.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:153766:1"/>
+            <!-- PDF PAGE 79 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153766:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:153766:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <head>THE HUMBLE REMONSTRANCE OF S<hi rend="sup">R.</hi> Francis VVilloughby KNIGHT: Therein ſetting forth his faithfull ſer<g ref="char:EOLhyphen"/>vices, his many ſufferings, and his earneſt deſires to ſpend the reſt of his dayes in the Service of the <hi>Parliament,</hi> againſt the Rebels of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have ſerved in the Warres with honour and reputa<g ref="char:EOLhyphen"/>tion 47. yeares, 25. whereof I ſpent in the ſervice of the States of the United Provinces, under the command of the Lord Generall <hi>Vere:</hi> the reſt be<g ref="char:EOLhyphen"/>ing 22. yeares, I have ſpent in the Kingdome of <hi>Ireland,</hi> where I have had many and honourable Commands: And firſt, as Governour of the Cities of <hi>Corke</hi> and <hi>Lymerick,</hi> and a Counſellors place of that Province of <hi>Munſter.</hi> After that, I was by the then Lord Deputy of that
+<pb n="2" facs="tcp:153766:3"/>
+               <!-- PDF PAGE 81 -->Kingdome, commanded to take upon me the government of the Fort of <hi>Gallaway,</hi> and to repaire and finiſh the ſame, which was by me perfected in two yeares time, and made one of the compleateſt Forts in that Kingdome. I was alſo made Deputy Governour of the County and Town of <hi>Gallaway,</hi> having both Martiall and civill government conferred upon me (under the broad Seal of that Kingdome) as alſo made a Privie Counſellor of that Kingdome, and being by accident in <hi>Dublin</hi> at the beginning of that horrid Rebellion (and on that very day) I was by the then Lords Juſtices <hi>(viz.)</hi> Sir <hi>William Par<g ref="char:EOLhyphen"/>ſons,</hi> and S<hi rend="sup">r</hi> 
+               <hi>John Burlace,</hi> commanded to take into my charge and care the Caſtle of <hi>Dublin,</hi> that important piece, And by their Com<g ref="char:EOLhyphen"/>miſſion made Governour thereof, with promiſe of twenty ſhillings <hi>per diem,</hi> but I never received any thing in ſix yeares time; After that I was made Major Generall of the Army, and a Colonell: All which places I have from time to time diſcharged with all duty and faithfulfulneſſe, And which is ſo certified by men of honour, who were the chiefe Governours and Counſell of that Kingdome in the time of my imployments and ſervice, and to whom my ſervice was beſt known; which Certificate of theirs is hereunto annexed; And I finding, to my unſpeakable griefe, that ſome malitious perſons have ſecretly wounded my reputation to the moſt honourable, the Houſes of <hi>Parliament,</hi> by which I have, and doe much ſuffer, I can but wiſh he or they had had more honeſty, then to poſſeſſe the <hi>Parliament</hi> with ſuch falſities and untruths (or had ſo much worth in them) as to have accuſed me to my face, which if they had done, or would yet doe, I make no queſtion, but am confident, that my innocency, ſhall not on<g ref="char:EOLhyphen"/>ly cleere me, but alſo ſhame my Accuſers; And ſo much I dare be bold to ſay, that there lives not that man, that can juſtly accuſe me of any the leaſt crime committed againſt the moſt Honourable, the Houſes of <hi>Parliament</hi> of <hi>England,</hi> or of any diſſervice ever done unto my Country in all my life, and doubt not of making it good againſt any whatſoever, if thereto admitted.</p>
+            <p>I was one of the Commiſſioners imployed 17. moneths agoe from the Marqueſſe of <hi>Ormond</hi> and Councell of <hi>Ireland</hi> for the rendring up of the City of <hi>Dublin,</hi> and all other the Forts and Fortreſſes then under the command of the ſaid Marqueſſe, into the hands of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>England;</hi> which journey my ſelfe, and the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners <hi>(viz.)</hi> S<hi rend="sup">r</hi> 
+               <hi>Gerrard Lowther,</hi> Lord chief Juſtice of the Common Pleas, and S<hi rend="sup">r</hi> 
+               <hi>Paul Davis;</hi> Clerk of the Counſell cheerful<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:153766:3"/>
+               <!-- PDF PAGE 81 -->undertooke in the deep of winter, upon our owne charges, out of our zeale to doe the <hi>Parliament ſervice;</hi> which great and happy work, by the bleſſing of God hath well ſucceeded ſince, to the con<g ref="char:EOLhyphen"/>tentment of the <hi>Parliament,</hi> and to the great comfort of all the di<g ref="char:EOLhyphen"/>ſtreſſed Proteſtants of <hi>Ireland,</hi> although as yet nothing have been by the <hi>Parliament</hi> allowed us, or to any of us (for any thing knowne to me) for our paines and charges in the negotiating of ſo happy a worke, notwithſtanding others that came after us but with particu<g ref="char:EOLhyphen"/>lar Letters, have been bountifully rewarded by the <hi>Parliament.</hi>
+            </p>
+            <p>The right honourable the Committee at <hi>Derby</hi> houſe were pleaſed within few dayes after I came over, as aforeſaid, to make choyce of me to ſend over into <hi>Ireland,</hi> with letters of credence to the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Ormond</hi> and Councell, As alſo with private Inſtructions of comfort to the diſtreſſed Proteſtants at <hi>Dublin</hi> and elſewhere, aſſuring them of ſpeedy ſuccours to be ſent unto them for their reliefe, and Commiſſioners to follow, to treat with the Marqueſſe of <hi>Ormond;</hi> which journey I alſo moſt cheerefully undertooke, and ſpeedily per<g ref="char:EOLhyphen"/>formed, finding at my landing the Army of the Rebels before the City of <hi>Dublin,</hi> ready to ſwallow them up, but my unexpected arri<g ref="char:EOLhyphen"/>vall there, gave ſo generall a ſatisfaction to all the Proteſtants, that both Inhabitants and ſouldiers with undaunted reſolution wrought in the trenches, and watched night and day for the ſafety of, and de<g ref="char:EOLhyphen"/>fence of that City, which otherwiſe had been in great danger to have been loſt; And when the <hi>Parliament</hi> Commiſſioners came over, and I finding (contrary to my hope) that Treaty to prove fruitleſſe for that time, I deſired leave of the Commiſſioners to come away with them, which being by them granted unto me, I left all I had there, both fortunes and Eſtate, and came over with them.</p>
+            <p>I have attended here 17. moneths at great charges, a Petitioner unto the moſt Honourable the Houſes of <hi>Parliament</hi> for ſome mo<g ref="char:EOLhyphen"/>nies taken from me out of Gold-ſmiths-Hall by a miſinformation, as alſo to know your Honours pleaſures concerning my places of Com<g ref="char:EOLhyphen"/>mand, which I held in <hi>Ireland</hi> and had long enjoyed by Commiſſion from his Majeſty and the <hi>Parliament,</hi> which was the Major Generals place, the government of the Caſtle of <hi>Dublin,</hi> and an old ſtanding Company of Foot, which Company I have had this nineteen years, (as before recited) and was armed at my own charge, And although the <hi>Parliament</hi> have been pleaſed a quarter of yeare ſince (for the reliefe of the extreame neceſſity of my wife and children) to order
+<pb n="4" facs="tcp:153766:4"/>
+               <!-- PDF PAGE 82 -->me ſeven hundred pounds, to be paid out of the moyety of Gold-Smiths-Hall not ingaged, (in courſe) which mony, I humbly conceive, was in lieu of that taken from me, which if it be ſo meant, is ſhort of what I ought to have 250. li. as by good certificate from the War<g ref="char:EOLhyphen"/>dens and Company of Goldſmiths, ready to be produced, may ap<g ref="char:EOLhyphen"/>peare; Yet ſuch are the vaſt ſummes that Goldſmiths-Hall is charg<g ref="char:EOLhyphen"/>ed with already, that the Treaſurers ſay, that in a long time nothing can be expected from thence; which I having made known by Peti<g ref="char:EOLhyphen"/>tion to the <hi>Parliament,</hi> they have been pleaſed on the 17. of <hi>Febr.</hi> 1647. to order intereſt to be paid every ſix moneths, till the money may come in courſe to be received, And although this good worke of theirs adds but little comfort to my great and preſent preſſing wants yet I am moſt humbly thankfull to them for it.</p>
+            <p>I have for the moſt part of the rebellion of <hi>Ireland</hi> ſerved the <hi>Parliament</hi> upon my own charge, having by juſt Accompts made up and ſigned by the chief Governours and Counſell of that Kingdome of <hi>Ireland</hi> ready to be produced, above twelve thouſand pounds due unto me, which I ſhall humbly leave to the pleaſure of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> to be conſidered of, in what meaſure they thinke fit.</p>
+            <p>At the intreaty of the Lords Juſtices, and Councell <hi>(viz.)</hi> S<hi rend="sup">r.</hi> 
+               <hi>William Parſons,</hi> and S<hi rend="sup">r.</hi> 
+               <hi>John Burlace,</hi> I kept my own Company five weeks upon my owne charge in time of want of money, they promi<g ref="char:EOLhyphen"/>ſing me payment aſſoone as Treaſure came from the <hi>Parliament</hi> of <hi>England,</hi> and for which I have their Order ready to be produced; but I never received one penny of it, being a hundred and ten pounds.</p>
+            <p>At the requeſt of the ſame Lords Juſtices, and Counſell, in times of want; I ſent into the ſtore, which S<hi rend="sup">r.</hi> 
+               <hi>Philip Percivall,</hi> Victuall Ma<g ref="char:EOLhyphen"/>ſter Generall received (as is acknowledged under his hand) Beeves at halfe value, amounting to an hundred and thirteeen pounds, and for which I have alſo an Order, but never received any ſatisfaction for them, Which Order is ready to be produced.</p>
+            <p>The Fort of <hi>Gallaway</hi> being my Government, and I being com<g ref="char:EOLhyphen"/>manded, as is before recited, to recide in <hi>Dublin</hi> Caſtle, I left my ſonne there with much of my goods<g ref="char:punc">▪</g> which Fort being after beſieg<g ref="char:EOLhyphen"/>ed by the Rebels, my ſon ſent unto me in a Trunck an hundred four<g ref="char:EOLhyphen"/>ty nine pounds of mine, that I left there at my coming away, the Ship in which it came, being put into <hi>Kinſale,</hi> the Lord of <hi>Inchequin</hi> being in want of money for the Army under his Command, and con<g ref="char:EOLhyphen"/>ceiving
+<pb n="5" facs="tcp:153766:4"/>
+               <!-- PDF PAGE 82 -->there had been ſome greater ſumme in the Trunck, cauſed the ſaid Trunck to be broken up, and finding no more money in it, took that out, and as his owne Letter makes mention, imployed it to the uſe of the Army, for which no ſatisfaction hath as yet been made un<g ref="char:EOLhyphen"/>to me, only one twenty pounds of it he paid, and no more.</p>
+            <p>And now having made known unto your Honour, my imploy<g ref="char:EOLhyphen"/>ments, and partly my ſufferings, both in <hi>Ireland,</hi> and here in <hi>England,</hi> I having ſerved faithfully againſt the Rebels of <hi>Ireland</hi> (as is well known) l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt one of my ſons there in that Service, ſpent and loſt my whole Eſtate, to a great value, in that Service, only what is yet re<g ref="char:EOLhyphen"/>maining lies in the Rebels Quarters, from whence I can draw no ſuc<g ref="char:EOLhyphen"/>cour for the relief of me and mine at preſent, nor have not done theſe ſix yeares, And againſt whom I deſire to ſpend the reſt of my dayes in the ſervice of the <hi>Parliament</hi> of <hi>England,</hi> not doubting, but as formerly, I ſhall be found able to doe my Country good and acceptable ſervice, And therefore my humble ſuit unto your Honour is, that when my Petition to this purpoſe ſhall be preſented to the moſt Honourable, the Houſes of <hi>Parliament,</hi> That you will pleaſe to vouchſafe me your favour and furtherance in the juſtneſſe of my cauſe, And in regard that in the late ſettlement of the Army in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Leinſter,</hi> I finde no man of Quality but enjoyes what Com<g ref="char:EOLhyphen"/>mands he before held (yea ſome farre better then ever they had be<g ref="char:EOLhyphen"/>fore) And for that there is not, nor cannot be any exceptions juſtly taken againſt me, That I may be by the favours of the <hi>Parliament,</hi> continued in my Commands, which I have ſo long had, and ſo faith<g ref="char:EOLhyphen"/>fully ſerved for, It being without all Example, That a man of my quality and imployments ſhould be laid aſide, no offence being juſtly proved againſt me (imployments honourable, Sir, is the chiefeſt thing I deſire) That as I have lived with honour, ſo I may dye, which granted unto me, I ſhall leave my great and dearly earned Arreares (juſtly due unto me) to the pleaſure of the moſt Honourable, the Houſes of <hi>Parliament,</hi> to be conſidered of, as in their grave wiſdomes they ſhall thinke fit.</p>
+            <p>But if the <hi>Parliament</hi> have otherwiſe reſolved (as I hope they have not) and will not continue me in my imployments, or any part of them, Then I moſt humbly beſeech your Honour, to ſtand my friend, that I may be by you and them held worthy of ſome part of my great and dearly earn'd Arreares, As alſo my truly disburſed monyes for the advancement of their ſervice in <hi>Ireland,</hi> whereby
+<pb n="6" facs="tcp:153766:5"/>
+               <!-- PDF PAGE 83 -->I may be in ſome meaſure enabled for the future, to provide for my wife and children, that we periſh not, I having nothing left me in the world to ſubſiſt on, but your noble favours, and that I have in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> which lies in the Rebels Quarters, as before mentioned. To recover which, I ſhall have no encouragement to goe thither, if not imployed by the <hi>Parliament;</hi> To the furtherance of which, I humbly implore your favour, and humbly deſire your ſpeedy Anſwer, I not being able to ſubſiſt here any longer, nor well know whither to goe.</p>
+            <div type="part">
+               <pb n="7" facs="tcp:153766:5"/>
+               <!-- PDF PAGE 83 -->
+               <head>That I have alwayes carryed my ſelfe like an ho<g ref="char:EOLhyphen"/>neſt man, this Certificate will ſhew to all men.</head>
+               <p>AT the requeſt of Sir <hi>Francis Willoughby</hi> Knight, we doe hereby certifie, that he hath ſerved long in the Kingdome of <hi>Ireland,</hi> and in eminent places and commands, as Colonel, and Governour of the Fort of <hi>Gallaway,</hi> and from the beginning of the rebellion there, he hath been intruſted with the Caſtle of <hi>Dublin,</hi> and Major Generall of the Army there; In all which imployments he hath ſer<g ref="char:EOLhyphen"/>ved induſtriouſly and faithfully againſt the Rebels, untill the ceſſa<g ref="char:EOLhyphen"/>tion, which began in <hi>September,</hi> 1643. And aſwell before as ſince the ceſſation we have well obſerved his carriage to be ſuch, and ſo mo<g ref="char:EOLhyphen"/>derate, as we conceived to be free from any ill affection to the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>England,</hi> And to our knowledge he is much impaired in his Eſtate by that ſervice, having received but little pay, And for the moſt part living upon his owne ſtock, having to our knowledge great arreares due unto him; All which we humbly certifie whom it may concerne.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Sir <hi>William Parſons,</hi> then one of the Lords Juſtices of <hi>Ireland.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Lord Brabaſon,</hi> a Privie Counſellor of that Kingdome.</item>
+                        <item>Sir <hi>George Shirley</hi> Lo: chief Juſtice of the Kings Bench, and a Pri<g ref="char:EOLhyphen"/>vie Counſellor.</item>
+                        <item>Sir <hi>Gerrard Lowther,</hi> Lord chief Juſtice of the Common Pleas, and a Privie Counſellor.</item>
+                        <item>Sir <hi>Adam Loftus,</hi> Vice-treaſurer, and Treaſurer at warres, and a Privie Counſellor.</item>
+                        <item>Sir <hi>Paul Davis,</hi> Clarke of the Counſell, Sr. <hi>Philip Perſivall,</hi>
+                        </item>
+                        <item>Sir <hi>Dudley Loftus,</hi> Sr. <hi>Edward Povey,</hi> Sr. <hi>William Anderſon,</hi>
+                        </item>
+                        <item>Sir <hi>Francis Slingsby,</hi> Mr. <hi>Biſſe,</hi> Recorder of the City of <hi>Dublin,</hi>
+                        </item>
+                        <item>Mr. <hi>Theodore Scout,</hi> Mr. <hi>Thomas Mawle.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:153766:6"/>
+               <!-- PDF PAGE 84 -->
+               <head>That I was ſo well eſteemed of by the Honourable Committee of Derby houſe, as to be imployed into <hi>Ireland,</hi> as afore<g ref="char:EOLhyphen"/>ſaid, this will ſhew.</head>
+               <p>VVHereas Sir <hi>Francis Willoughby</hi> Knight, is now diſpatcht hence with Letters, and other directions to the Citie of <hi>Dublin,</hi> of great importance, which requires all expedition, Theſe are to require all Officers at Land, and all Commanders of Ships at Sea, not only to permit and ſuffer him to paſſe in this his journey, but alſo to be aiding and aſſiſting unto him, in providing of him, and his ſervants with poſt horſes at the uſuall rates, and in taking up a Ship, or other convenient Veſſell for his ſpeedy paſſage by Sea, where<g ref="char:EOLhyphen"/>of they are not to faile, as they will anſwer the contrary,</p>
+               <closer>
+                  <dateline>Weſtmin<g ref="char:EOLhyphen"/>ſter <date>the 19.<hi rend="sup">th</hi> of <hi>October.</hi> 1647.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>The Lord <hi>Liſle.</hi>
+                        </item>
+                        <item>The Lord <hi>Wharton.</hi>
+                        </item>
+                        <item>M<hi rend="sup">r</hi> 
+                           <hi>William Perpoint.</hi>
+                        </item>
+                        <item>Sir <hi>Gregory Norton.</hi>
+                        </item>
+                        <item>M<hi rend="sup">r</hi> 
+                           <hi>Denſill Hollis.</hi>
+                        </item>
+                        <item>Sir <hi>Philip Stapleton.</hi>
+                        </item>
+                        <item>Sir <hi>John Temple.</hi>
+                        </item>
+                        <item>Sir <hi>John Clotworthy.</hi>
+                        </item>
+                        <item>M<hi rend="sup">r</hi> 
+                           <hi>Thomas Challenor.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153766:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
